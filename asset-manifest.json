@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/birthday-app-for-alya/static/css/main.be41814f.css",
-    "main.js": "/birthday-app-for-alya/static/js/main.bf681f74.js",
-    "static/media/vid-ucapan.mp4": "/birthday-app-for-alya/static/media/vid-ucapan.304b354bac027bffd29d.mp4",
-    "static/media/alya.jpg": "/birthday-app-for-alya/static/media/alya.cedf2dff4ae7ef19b7fc.jpg",
-    "static/media/songs.mp3": "/birthday-app-for-alya/static/media/songs.a2961be6a6aaf7739d03.mp3",
-    "index.html": "/birthday-app-for-alya/index.html",
-    "main.be41814f.css.map": "/birthday-app-for-alya/static/css/main.be41814f.css.map",
-    "main.bf681f74.js.map": "/birthday-app-for-alya/static/js/main.bf681f74.js.map"
+    "main.css": "/birthday-app/static/css/main.be41814f.css",
+    "main.js": "/birthday-app/static/js/main.92ce9dff.js",
+    "static/media/vid-ucapan.mp4": "/birthday-app/static/media/vid-ucapan.304b354bac027bffd29d.mp4",
+    "static/media/alya.jpg": "/birthday-app/static/media/alya.cedf2dff4ae7ef19b7fc.jpg",
+    "static/media/songs.mp3": "/birthday-app/static/media/songs.a2961be6a6aaf7739d03.mp3",
+    "index.html": "/birthday-app/index.html",
+    "main.be41814f.css.map": "/birthday-app/static/css/main.be41814f.css.map",
+    "main.92ce9dff.js.map": "/birthday-app/static/js/main.92ce9dff.js.map"
   },
   "entrypoints": [
     "static/css/main.be41814f.css",
-    "static/js/main.bf681f74.js"
+    "static/js/main.92ce9dff.js"
   ]
 }
