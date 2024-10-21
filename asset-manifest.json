@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/birthday-app-for-alya/static/css/main.7937f760.css",
+    "main.js": "/birthday-app-for-alya/static/js/main.bf681f74.js",
+    "static/media/vid-ucapan.mp4": "/birthday-app-for-alya/static/media/vid-ucapan.304b354bac027bffd29d.mp4",
+    "static/media/alya.jpg": "/birthday-app-for-alya/static/media/alya.cedf2dff4ae7ef19b7fc.jpg",
+    "static/media/songs.mp3": "/birthday-app-for-alya/static/media/songs.a2961be6a6aaf7739d03.mp3",
+    "index.html": "/birthday-app-for-alya/index.html",
+    "main.7937f760.css.map": "/birthday-app-for-alya/static/css/main.7937f760.css.map",
+    "main.bf681f74.js.map": "/birthday-app-for-alya/static/js/main.bf681f74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7937f760.css",
+    "static/js/main.bf681f74.js"
+  ]
+}
