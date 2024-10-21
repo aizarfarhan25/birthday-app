@@ -39,7 +39,7 @@ function App() {
 
   const handleShowVideo = () => {
     if (audio) {
-      audio.volume = 0.09; // Lower the background audio volume
+      audio.volume = 0.02; // Lower the background audio volume
     }
     setShowVideo(true);
   };
