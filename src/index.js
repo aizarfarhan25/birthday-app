@@ -55,7 +55,7 @@ function App() {
     <div className="container">
       <h1>Happy 20th Birthday, Alya Satya! ✨❤</h1>
       <p className="message">
-        Haloo ibu yakult! Selamat ulang tahun yaa buat kamuu ☺❤
+        Halooo ibu yakult! Selamat ulang tahun yaa buat kamuu ☺❤
       </p>
       <img
         className="birthday-image"
